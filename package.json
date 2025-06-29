@@ -1,0 +1,40 @@
+{
+  "name": "com.xavierarpa.uniflux.toolkit",
+  "displayName": "UniFlux Toolkit",
+  "version": "1.0.0",
+  "author": "Xavier Arpa",
+  "unity": "2019.3",
+  "documentation": "README.md",
+  "description": "Tools to handle UniFlux in Unity.",
+  "keywords": [
+    "flux",
+    "unity",
+    "uniflux",
+    "toolkit"
+  ],
+  "dependencies": 
+  {
+    "com.xavierarpa.uniflux": "https://github.com/xavierarpa/UniFlux.git"
+  },
+  "samples": [
+    {
+      "displayName": "Sample",
+      "description": "Simplified sample of how to use UniFlux Toolkit",
+      "path": "Samples/Sample"
+    }
+  ],
+  "license": "MIT",
+  "category": "Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/xavierarpa/UniFlux.Toolkit.git", 
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/xavierarpa/UniFlux.Toolkit/issues"
+  },
+  "homepage": "https://github.com/xavierarpa/UniFlux.Toolkit#readme"
+}
